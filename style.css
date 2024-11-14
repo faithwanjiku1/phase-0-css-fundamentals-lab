@@ -3,3 +3,56 @@ body {
   height: 100%;
   margin: 0;
 }
+
+
+
+header {
+  text-align: center;
+}
+
+#featured-property figure img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+#featured-property figure figcaption {
+  text-align: center;
+  font-size: 0.9em; 
+  color: #555;
+}
+
+nav a {
+  padding: 0 10px;
+  background-color:blue;
+  text-align: center;
+  display: inline-block;
+  color: white;
+  text-decoration: none;
+}
+nav {
+  text-align: center;
+}
+
+figcaption {
+  font-size: 0.8em;
+  text-align: center;
+}
+
+#featured-property p {
+  width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 10px 0;
+}
+
+div {
+  float: left;
+  width: 25%;
+  text-align: center;
+  background-color: rgb(221, 16, 16);
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+
